@@ -1,8 +1,8 @@
 # RoverCar - Smart Rover Vehicle
 
-This is a smart rover vehicle inspired by GalaxyRVR. The project includes:
+This is a Smart Rover Vehicle inspired by GalaxyRVR. The project includes:
 
-- 🔧 ESP32-based firmware
+- 🔧 Arduino
 - 📱 RemoteXY mobile app interface
 - 🛠️ Custom motor control for 6-wheel drive
 - 📷 Camera streaming with control
@@ -25,7 +25,7 @@ This is a smart rover vehicle inspired by GalaxyRVR. The project includes:
 
 ## 📱 How to Use
 
-1. Flash `app.ino` to your ESP32.
+1. Flash `app.ino` to your Arduino.
 2. Open the RemoteXY app and load the interface.
 3. Power on the rover and connect.
 
