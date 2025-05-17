@@ -31,6 +31,6 @@ This is a smart rover vehicle inspired by GalaxyRVR. The project includes:
 
 ## 📸 Demo
 
-![Rover](media/rover_photo.jpg)
+![Rover](media/car2.jpg)
 
 [Watch the demo video](media/rover_demo.mp4)
