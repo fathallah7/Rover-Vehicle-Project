@@ -1,4 +1,4 @@
-# RoverCar - Smart Rover Vehicle
+# RoverVehicle - Smart Rover Vehicle
 
 This is a Smart Rover Vehicle inspired by GalaxyRVR. The project includes:
 
